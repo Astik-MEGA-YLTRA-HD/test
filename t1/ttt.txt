@@ -1,1 +1,6 @@
-ppp
+git init
+git add .
+
+при дальнейших изменениях делать
+git add .
+git commit -m "..."
